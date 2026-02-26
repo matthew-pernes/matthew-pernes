@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Matt
 
 <!--
 **matthew-pernes/matthew-pernes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Data & BI analyst with a passion for transforming raw data into impactful business stories. Currently deep-diving into SQL and Power BI to solve real-world problems. Building the technical grit today to drive data-driven decisions tomorrow.
