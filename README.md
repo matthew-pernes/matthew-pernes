@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Matt
+## Hi there 👋 I'm Mat
 
 I'm a Data & BI analyst with a passion for transforming raw data into impactful business stories. I enjoy deep-diving into SQL, Excel, and Power BI to produce clear insights and impactful stories.
 
